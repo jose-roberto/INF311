@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="valor_1">Valor 1:</string>
+    <string name="valor_2">Valor 2:</string>
+    <string name="simplecalc">SimpleCalc</string>
+    <string name="digite_o_primeiro_valor">Digite o primeiro valor</string>
+    <string name="adicao">+</string>
+    <string name="subtracao">-</string>
+    <string name="multiplicacao">*</string>
+    <string name="divisao">/</string>
+    <string name="resultado">O Resultado é:</string>
+</resources>
