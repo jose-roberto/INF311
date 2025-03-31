@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CompleteCalc</string>
+    <string name="backspace"><![CDATA[<<]]></string>
+</resources>
